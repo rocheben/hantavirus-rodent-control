@@ -1,0 +1,7 @@
+species,Brownrat,Blackrat,Mouse,Deermouse,Whitefoot,Cottonrat
+Brownrat,1,0.01,0.001,0.001,0.001,0.01
+Blackrat,0.01,1,0.01,0.01,0.01,0.01
+Mouse,0.001,0.01,1,0.1,0.01,0.01
+Deermouse,0.001,0.01,0.1,1,0.1,0.01
+Whitefoot,0.001,0.01,0.01,0.1,1,0.01
+Cottonrat,0.01,0.01,0.01,0.01,0.01,1

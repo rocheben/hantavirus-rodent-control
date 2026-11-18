@@ -1,0 +1,7 @@
+species,Brownrat,Mouse,Wmouse,Shrew,Squirrel,Blackrat
+Brownrat,1,0.001,0.01,0.01,0.001,0.01
+Mouse,0.001,1,0.01,0.01,0.01,0.01
+Wmouse,0.01,0.01,1,0.01,0.01,0.01
+Shrew,0.01,0.01,0.01,1,0.01,0.01
+Squirrel,0.001,0.01,0.01,0.01,1,0.1
+Blackrat,0.01,0.01,0.01,0.01,0.1,1

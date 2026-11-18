@@ -1,0 +1,4 @@
+"habitat","file","rows","columns"
+"building","TrappingSuccess_building.csv",14,"Period; Code_Locality; Species; NBind; NBtrapping; NemptyBtrap; NtotalBtrap; TS_building; adjTS_building"
+"forest","TrappingSuccess_forest.csv",111,"Period; Code_Locality; Species; NFind; NFtrapping; NemptyFtrap; NtotalFtrap; TS_forest; adjTS_forest"
+"rats","TrappingSuccess_Rats.csv",12,"Period; Code_Locality; Species; NRind; NRtrapping; NemptyRtrap; NtotalRtrap; TS_Rats; adjTS_Rats"

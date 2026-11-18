@@ -1,0 +1,13 @@
+"community","species","latin","pulses_per_year","litters_per_year","mean_birth_rate","death_rate","birth_over_death"
+"France","Brownrat","Rattus norvegicus",4,3.5,0.04809,0.0431,1.116
+"France","Mouse","Mus musculus",5,4.5,0.03645,0.03415,1.067
+"France","Wmouse","Apodemus sylvaticus",4,3.75,0.02765,0.02651,1.043
+"France","Shrew","Crocidura russula",5,4,0.02142,0.02214,0.967
+"France","Squirrel","Sciurus vulgaris",2,2,0.01272,0.01233,1.032
+"France","Blackrat","Rattus rattus",4,3.75,0.03166,0.03021,1.048
+"Mexico","Brownrat","Rattus norvegicus",4,3.5,0.04809,0.0431,1.116
+"Mexico","Blackrat","Rattus rattus",4,3.75,0.03166,0.03021,1.048
+"Mexico","Mouse","Mus musculus",5,4.5,0.03645,0.03415,1.067
+"Mexico","Deermouse","Peromyscus maniculatus",3,2.6,0.01938,0.01695,1.143
+"Mexico","Whitefoot","Peromyscus leucopus",5,4.5,0.02747,0.02632,1.044
+"Mexico","Cottonrat","Sigmodon hispidus",2,2,0.01584,0.0149,1.063

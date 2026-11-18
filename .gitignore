@@ -1,0 +1,15 @@
+# superseded material and manuscripts (not part of the code release)
+old/
+*.docx
+~$*
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS / editors
+.DS_Store
+__pycache__/
+*.pyc
